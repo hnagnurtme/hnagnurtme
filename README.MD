@@ -1,7 +1,7 @@
 # 💫About Me :
-- Hello! I’m Trung Anh, a second-year student at the University of Danang – University of Science and Technology. My passion for technology and programming drives me to explore various fields within this domain. I have hands-on experience with Java Spring Boot and am eager to expand my knowledge in backend development. Currently, I’m diving into NodeJS and excited to learn more about its capabilities.
+- Hello! I’m **Trung Anh**, a second-year student at the **University of Danang – University of Science and Technology** . My passion for technology and programming drives me to explore various fields within this domain. I have hands-on experience with Java Spring Boot and am eager to expand my knowledge in backend development. Currently, I’m diving into NodeJS and excited to learn more about its capabilities.
 
-- In addition, I serve as a Back-End Developer at Google Developer Groups On Campus – DUT, where I contribute to innovative projects and collaborate with talented individuals in the tech community.
+- In addition, I serve as a **Back-End Developer** at **Google Developer Groups On Campus – DUT**, where I contribute to innovative projects and collaborate with talented individuals in the tech community.
 
 
 # 💻Tech Stack
