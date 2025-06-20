@@ -28,31 +28,10 @@
 
 ## 🛠 Projects Showcase
 
-### 🧼 DomiCare – Cleaning Service Web API  
-**Description:**  
-DomiCare is a Web API platform specialized in managing and booking cleaning services.  
-It allows users to easily search, schedule, and manage service appointments.  
-The system supports role-based access for customers, sales staff, and administrators, enabling streamlined and efficient operations.
-
-- 👥 **Team Size:** 3  
-- 🧑‍💻 **My Role:** Backend Developer  
-- 🧾 **Responsibilities:**
-  - Designed and implemented the cloud-based database using **Railway PostgreSQL**
-  - Secured the system with **JWT**, **Spring Security**, **SSL Certificate**, and **OAuth2**
-  - Integrated **Email Service** for account verification and user notifications
-  - Implemented **WebSocket** for real-time features (live updates, notifications)
-  - Developed complete **RESTful APIs** with CRUD functionalities
-  - Documented APIs using **OpenAPI 3** (**Swagger**)
-  - Dockerized the application and deployed it to **Render**
-
-- 🧠 **Tech Stack:**  
-  `Spring Boot`, `Spring Security`, `JWT`, `OAuth2`, `WebSocket`, `PostgreSQL`, `Swagger`, `Docker`, `Render`
-
-- 🔗 **Project Links:**
-  - 🎨 Figma: [https://url.gdsc.dev/domicare](https://url.gdsc.dev/domicare)  
-  - 💻 GitHub: [https://github.com/hnagnurtme/DomiCare_Website.git](https://github.com/hnagnurtme/DomiCare_Website.git)  
-  - 🌐 Frontend (Vercel): [https://domicare-frontend.vercel.app](https://domicare-frontend.vercel.app)  
-  - ☁️ Backend (Render): [https://domicare-web-v1-5.onrender.com](https://domicare-web-v1-5.onrender.com)  
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [🧼 DomiCare](https://github.com/hnagnurtme/DomiCare_Website.git) | Web API platform for managing and booking home cleaning services. Includes role-based access, OAuth2, JWT security, and real-time updates with WebSocket. Deployed on Render. | Spring Boot, PostgreSQL, OAuth2, JWT, WebSocket, Swagger, Docker |
+| [📱 PhoneHub](https://github.com/hnagnurtme/PhoneHub) | Desktop application for mobile phone store management. Features product & booking management, authentication, and automatic DB initialization using layered architecture. | C#, .NET 6, WinForms, SQL Server, Entity Framework Core |
 
 ---
 
