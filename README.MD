@@ -30,8 +30,8 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [🧼 DomiCare](https://github.com/hnagnurtme/DomiCare_Website.git) | Web API platform for managing and booking home cleaning services. Includes role-based access, OAuth2, JWT security, and real-time updates with WebSocket. Deployed on Render. | Spring Boot, PostgreSQL, OAuth2, JWT, WebSocket, Swagger, Docker |
-| [📱 PhoneHub](https://github.com/hnagnurtme/PhoneHub) | Desktop application for mobile phone store management. Features product & booking management, authentication, and automatic DB initialization using layered architecture. | C#, .NET 6, WinForms, SQL Server, Entity Framework Core |
+|  [DomiCare](https://github.com/hnagnurtme/DomiCare_Website.git) | Web API platform for managing and booking home cleaning services. Includes role-based access, OAuth2, JWT security, and real-time updates with WebSocket. Deployed on Render. | Spring Boot, PostgreSQL, OAuth2, JWT, WebSocket, Swagger, Docker |
+| [PhoneHub](https://github.com/hnagnurtme/PhoneHub) | Desktop application for mobile phone store management. Features product & booking management, authentication, and automatic DB initialization using layered architecture. | C#, .NET 6, WinForms, SQL Server, Entity Framework Core |
 
 ---
 
@@ -72,9 +72,3 @@
 </p>
 
 ---
-
-## 📊 Visitor Count
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=hnagnurtme&label=Profile%20Views&color=12&icon=0&pretty=true" />
-</p>
