@@ -12,7 +12,7 @@
 
 - 🎓 I'm a second-year student at **University of Science and Technology – The University of Danang (DUT)**
 - 💼 I'm currently a **Back-End Developer** at **Google Developer Groups On Campus – DUT**
-- 🚀 My main tech stack: **Java Spring Boot**, **NodeJS**, **Docker**, **SQL**
+- 🚀 My main tech stack: **Java Spring Boot**, **NodeJS**,**C#** **Docker**, **SQL**
 - 🌱 Currently exploring **advanced Node.js**, **Clean Architecture**, and **DevOps fundamentals**
 - 🤝 I love collaborating with developers to bring meaningful ideas to life
 
