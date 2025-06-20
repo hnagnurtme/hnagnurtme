@@ -1,5 +1,5 @@
 <!-- Dark Mode Profile - Trung Anh -->
-<h1 align="center">Hi 👋, I'm Trung Anh</h1>
+<h1 align="center">NGUYEN TRUNG ANH</h1>
 <h3 align="center">🚀 Backend Developer | GDG On Campus - DUT | Tech Explorer</h3>
 
 <p align="center">
