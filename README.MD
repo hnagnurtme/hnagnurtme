@@ -1,18 +1,81 @@
-# 💫About Me :
-- Hello! I’m **Trung Anh**, a second-year student at the **University of Danang – University of Science and Technology** . My passion for technology and programming drives me to explore various fields within this domain. I have hands-on experience with Java Spring Boot and am eager to expand my knowledge in backend development. Currently, I’m diving into NodeJS and excited to learn more about its capabilities.
+<!-- Dark Mode Profile - Trung Anh -->
+<h1 align="center">Hi 👋, I'm Trung Anh</h1>
+<h3 align="center">🚀 Backend Developer | GDG On Campus - DUT | Tech Explorer</h3>
 
-- In addition, I serve as a **Back-End Developer** at **Google Developer Groups On Campus – DUT**, where I contribute to innovative projects and collaborate with talented individuals in the tech community.
-
-
-# 💻Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=hnagnurtme&theme=city_light&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hnagnurtme&theme=city_light&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hnagnurtme&theme=city_light&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Second-year+student+at+DUT.;Passionate+about+Backend+Development.;Loves+SpringBoot+%2F+NodeJS.;Currently+exploring+Docker%2C+CI%2FCD." alt="Typing SVG" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hnagnurtme&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🌟 About Me
+
+- 🎓 I'm a second-year student at **University of Science and Technology – The University of Danang (DUT)**
+- 💼 I'm currently a **Back-End Developer** at **Google Developer Groups On Campus – DUT**
+- 🚀 My main tech stack: **Java Spring Boot**, **NodeJS**, **Docker**, **SQL**
+- 🌱 Currently exploring **advanced Node.js**, **Clean Architecture**, and **DevOps fundamentals**
+- 🤝 I love collaborating with developers to bring meaningful ideas to life
+
+---
+
+## 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,javascript,typescript,docker,graphql,postgres,mysql,mongodb,dotnet,html,css,qt,vscode,git,github,postman" />
+</p>
+
+---
+
+## 🛠 Projects Showcase
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🔐 [**SecureAuth**](https://github.com/hnagnurtme/secureauth) | JWT-based microservice for user authentication | Spring Boot, JWT, Docker |
+| 🛒 [**MyPhoneStore**](https://github.com/hnagnurtme/myphonestore) | Full backend for e-commerce management | NodeJS, Express, MongoDB |
+| 🧮 [**Student Score Manager**](https://github.com/hnagnurtme/studentscoremanager) | Desktop app to manage student grades | C++, Qt Framework |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hnagnurtme&theme=tokyonight&show_icons=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hnagnurtme&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnagnurtme&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🗺️ Roadmap 2024
+
+- ✅ Mastered Java Spring Boot REST APIs
+- ✅ Built real-world project with MongoDB & JWT
+- ⏳ Learning advanced NodeJS (event loop, async patterns)
+- ⏳ Practicing Docker + CI/CD (GitHub Actions)
+- 🔜 Planning to contribute to Open Source
+
+---
+
+## ✍️ Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:trunganh10@gmail.com"><img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/trunganhdut/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/hnagnurtme"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+## 📊 Visitor Count
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=hnagnurtme&label=Profile%20Views&color=12&icon=0&pretty=true" />
+</p>
