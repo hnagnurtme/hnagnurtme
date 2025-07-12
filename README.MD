@@ -1,21 +1,28 @@
-<!-- Profile README - Nguyen Trung Anh -->
+<!-- Optimized Profile README - Nguyen Trung Anh -->
 
-<h1 align="center">✨ NGUYEN VAN TRUNG ANH ✨</h1>
-<h3 align="center">🚀 Backend Developer</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=✨+NGUYEN+VAN+TRUNG+ANH+✨" alt="Nguyen Van Trung Anh" />
+</h1>
+
+<h3 align="center">
+  <img src="https://img.shields.io/badge/🚀_Backend_Developer-000?style=for-the-badge&logo=starship&logoColor=36BCF7&labelColor=0d1117" alt="Backend Developer" />
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Second-year+student+at+DUT.;Passionate+about+Backend+Development.;Loves+SpringBoot+%2F+NodeJS.;Currently+exploring+Docker%2C+CI%2FCD." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=Second-year+student+at+DUT;Passionate+about+Backend+Development;Loves+SpringBoot+%2F+NodeJS;Currently+exploring+Docker%2C+CI%2FCD" alt="Typing Intro" />
 </p>
 
 <p align="center">
   <a href="https://github.com/hnagnurtme">
-    <img src="https://komarev.com/ghpvc/?username=hnagnurtme&style=flat-square&color=blue" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=hnagnurtme&style=flat-square&color=36BCF7&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
 </p>
 
----
+<div align="center">
+  <img src="https://github.com/hnagnurtme/hnagnurtme/assets/123456789/decoration-line" alt="divider" width="100%" height="8" style="background: linear-gradient(90deg, #0d1117, #36BCF7, #0d1117); border-radius: 4px;" />
+</div>
 
-## 🧠 Tech Stack
+## � Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,ts,js,docker,kubernetes,postgres,mysql,mongodb,graphql,dotnet" />
@@ -25,118 +32,121 @@
   <img src="https://skillicons.dev/icons?i=html,css,qt,vscode,git,github,postman" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="graphql" width="50" height="50" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnagnurtme&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hnagnurtme&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7" alt="GitHub Stats" width="45%" />
+</div>
 
-<p align="center">
-  <img src="https://lottiefiles.com/storage/datafiles/1oJxgKq3bbV8GL3/data.json" width="0" height="0" hidden />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=hnagnurtme&theme=radical&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF9E64&currStreakLabel=36BCF7" alt="GitHub Streak" width="70%" />
+</div>
 
----
-
-## 🛠️ Project Showcase
+## 🚀 Project Showcase
 
 <!-- === DOMICARE === -->
-<table>
-  <tr>
-    <td width="45%" align="center">
-      <a href="https://github.com/hnagnurtme/DomiCare_Website" target="_blank">
-        <img src="https://res.cloudinary.com/dvxyv0l5f/image/upload/v1752313673/Logo_domicare_3_sfhuro.png" alt="DomiCare" width="100%" style="border-radius: 8px;" />
-      </a>
-    </td>
-    <td valign="top">
+<div style="background: linear-gradient(135deg, #0d1117 0%, #1a2238 100%); border-radius: 12px; padding: 20px; margin: 25px 0; border: 1px solid #36BCF7; box-shadow: 0 8px 16px rgba(54, 188, 247, 0.2);">
+  <table>
+    <tr>
+      <td width="45%" align="center" style="vertical-align: middle;">
+        <a href="https://github.com/hnagnurtme/DomiCare_Website" target="_blank">
+          <img src="https://res.cloudinary.com/dvxyv0l5f/image/upload/v1752313673/Logo_domicare_3_sfhuro.png" alt="DomiCare" width="85%" style="border-radius: 12px; border: 2px solid #36BCF7; box-shadow: 0 4px 8px rgba(54, 188, 247, 0.4); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'" />
+        </a>
+      </td>
+      <td valign="top" style="padding-left: 25px;">
 
 ### 🔹 [DomiCare - Home Cleaning Platform](https://github.com/hnagnurtme/DomiCare_Website)
 
-> 🧼 Nền tảng đặt dịch vụ dọn dẹp nhà cửa thông minh theo lịch linh hoạt, xác thực OAuth2, gửi email tự động và thông báo real-time qua WebSocket. Hỗ trợ nhiều vai trò: khách hàng, sales, kỹ thuật, quản trị viên.
+> 🧼 Intelligent home cleaning service booking platform with flexible scheduling, OAuth2 authentication, automated email notifications, and real-time WebSocket alerts. Supports multiple roles: customer, sales, technician, administrator.
 
-**📌 Chức năng:**
-- Tìm kiếm & đặt lịch dịch vụ
-- Quản lý người dùng & đơn hàng
-- Thông báo real-time
-- Xác thực OAuth2, gửi email, đánh giá dịch vụ
+**✨ Features:**
+- 🕒 Service search & booking
+- 👥 User & order management
+- 🔔 Real-time notifications
+- 🔐 OAuth2 authentication
+- ✉️ Email automation
+- ⭐ Service rating system
 
-**🛠 Tech Stack:**
+**⚙️ Tech Stack:**
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,java,postgres,docker,jwt,oauth,swagger" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth2-EB5424?logo=auth0&logoColor=white" />
 </p>
 
 <p>
   <a href="https://github.com/hnagnurtme/DomiCare_Website">
-    <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
   </a>
 </p>
 
-</td>
-</tr>
-</table>
-
----
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!-- === SHOPIFY === -->
-<table>
-  <tr>
-    <td width="45%" align="center">
-      <a href="https://github.com/hnagnurtme/ecomerce-microservice" target="_blank">
-        <img src="https://res.cloudinary.com/dvxyv0l5f/image/upload/v1752313769/anhanhaa_jzjrxy.jpg" alt="Shopify Microservice" width="100%" style="border-radius: 8px;" />
-      </a>
-    </td>
-    <td valign="top">
+<div style="background: linear-gradient(135deg, #0d1117 0%, #1a2238 100%); border-radius: 12px; padding: 20px; margin: 25px 0; border: 1px solid #36BCF7; box-shadow: 0 8px 16px rgba(54, 188, 247, 0.2);">
+  <table>
+    <tr>
+      <td width="45%" align="center" style="vertical-align: middle;">
+        <a href="https://github.com/hnagnurtme/ecomerce-microservice" target="_blank">
+          <img src="https://res.cloudinary.com/dvxyv0l5f/image/upload/v1752313769/anhanhaa_jzjrxy.jpg" alt="Shopify Microservice" width="85%" style="border-radius: 12px; border: 2px solid #36BCF7; box-shadow: 0 4px 8px rgba(54, 188, 247, 0.4); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'" />
+        </a>
+      </td>
+      <td valign="top" style="padding-left: 25px;">
 
 ### 🔹 [Shopify Microservice - E-commerce Platform](https://github.com/hnagnurtme/ecomerce-microservice)
 
-> 🛒 Nền tảng thương mại điện tử sử dụng kiến trúc microservice và truyền sự kiện qua Kafka. Xác thực bảo mật với JWT và tài liệu hóa API qua Swagger UI.
+> 🛒 E-commerce platform using microservice architecture with Kafka event streaming. Features JWT authentication and Swagger UI API documentation.
 
-**📌 Chức năng:**
-- Đăng ký / đăng nhập JWT
-- Quản lý user, đơn hàng
-- Giao tiếp giữa services bằng Kafka
-- CI/CD với Docker
+**✨ Features:**
+- 🔑 JWT authentication
+- 👤 User management
+- 📦 Order processing
+- 📡 Kafka inter-service communication
+- 🚀 Docker CI/CD pipeline
 
-**🛠 Tech Stack:**
+**⚙️ Tech Stack:**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,express,mongodb,docker,kafka,jwt,swagger" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black" />
 </p>
 
 <p>
   <a href="https://github.com/hnagnurtme/ecomerce-microservice">
-    <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
   </a>
 </p>
 
-</td>
-</tr>
-</table>
----
+      </td>
+    </tr>
+  </table>
+</div>
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hnagnurtme&theme=tokyonight&show_icons=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hnagnurtme&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
-## 📫 Connect with Me
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="mailto:trunganh0106@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/trunganh0106">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/hnagnurtme">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/trunganh0106/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn&duration=3000" alt="Footer" />
+</div>
