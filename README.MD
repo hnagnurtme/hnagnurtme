@@ -39,63 +39,78 @@
 
 ## 🛠️ Project Showcase
 
----
+<!-- === DOMICARE === -->
+<table>
+  <tr>
+    <td width="45%" align="center">
+      <a href="https://github.com/hnagnurtme/DomiCare_Website" target="_blank">
+        <img src="https://res.cloudinary.com/dvxyv0l5f/image/upload/v1752313673/Logo_domicare_3_sfhuro.png" alt="DomiCare" width="100%" style="border-radius: 8px;" />
+      </a>
+    </td>
+    <td valign="top">
 
 ### 🔹 [DomiCare - Home Cleaning Platform](https://github.com/hnagnurtme/DomiCare_Website)
 
-<p align="center">
-  <img src="https://res.cloudinary.com/dvxyv0l5f/image/upload/v1752313673/Logo_domicare_3_sfhuro.png" alt="DomiCare" width="320" />
-</p>
+> 🧼 Nền tảng đặt dịch vụ dọn dẹp nhà cửa thông minh theo lịch linh hoạt, xác thực OAuth2, gửi email tự động và thông báo real-time qua WebSocket. Hỗ trợ nhiều vai trò: khách hàng, sales, kỹ thuật, quản trị viên.
 
-**📌 Nghiệp vụ chính:**
-- 🔍 **Tìm kiếm dịch vụ** theo đánh giá, vị trí, giá
-- 📅 **Đặt lịch dọn dẹp** với xác thực OTP
-- 🔐 **Đăng nhập OAuth2**, quản lý tài khoản người dùng
-- ⏱️ **Thông báo real-time** đơn hàng mới qua WebSocket
-- 🧾 **Thanh toán online**, đánh giá và phản hồi dịch vụ
-- 📊 **Quản trị đa vai trò**: Khách hàng, Sales, Kỹ thuật, Admin
-- 📥 **Gửi email tự động** khi thay đổi trạng thái
+**📌 Chức năng:**
+- Tìm kiếm & đặt lịch dịch vụ
+- Quản lý người dùng & đơn hàng
+- Thông báo real-time
+- Xác thực OAuth2, gửi email, đánh giá dịch vụ
 
 **🛠 Tech Stack:**
-
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=spring,java,postgres,docker,jwt,oauth,swagger" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/hnagnurtme/DomiCare_Website" target="_blank">
-    <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<p>
+  <a href="https://github.com/hnagnurtme/DomiCare_Website">
+    <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
+</td>
+</tr>
+</table>
+
 ---
+
+<!-- === SHOPIFY === -->
+<table>
+  <tr>
+    <td width="45%" align="center">
+      <a href="https://github.com/hnagnurtme/ecomerce-microservice" target="_blank">
+        <img src="https://res.cloudinary.com/dvxyv0l5f/image/upload/v1752313769/anhanhaa_jzjrxy.jpg" alt="Shopify Microservice" width="100%" style="border-radius: 8px;" />
+      </a>
+    </td>
+    <td valign="top">
 
 ### 🔹 [Shopify Microservice - E-commerce Platform](https://github.com/hnagnurtme/ecomerce-microservice)
 
-<p align="center">
-  <img src="https://res.cloudinary.com/dvxyv0l5f/image/upload/v1752313769/anhanhaa_jzjrxy.jpg" alt="Shopify Microservice" width="320" />
-</p>
+> 🛒 Nền tảng thương mại điện tử sử dụng kiến trúc microservice và truyền sự kiện qua Kafka. Xác thực bảo mật với JWT và tài liệu hóa API qua Swagger UI.
 
-**📌 Nghiệp vụ chính:**
-- 🛍️ **Quản lý người dùng & đơn hàng** theo kiến trúc microservice
-- 🔐 **Xác thực bằng JWT**, phân quyền API
-- 🔁 **Giao tiếp liên dịch vụ** qua Kafka (event-driven)
-- ⚙️ **CI/CD & Docker** cho toàn bộ hệ thống
-- 📜 **Swagger UI** cho tài liệu hóa REST API
+**📌 Chức năng:**
+- Đăng ký / đăng nhập JWT
+- Quản lý user, đơn hàng
+- Giao tiếp giữa services bằng Kafka
+- CI/CD với Docker
 
 **🛠 Tech Stack:**
-
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs,ts,express,mongodb,docker,kafka,jwt,swagger" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/hnagnurtme/ecomerce-microservice" target="_blank">
-    <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<p>
+  <a href="https://github.com/hnagnurtme/ecomerce-microservice">
+    <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
----
+</td>
+</tr>
+</table>
+
 
 
 <p align="center">
