@@ -41,16 +41,26 @@
 
 ---
 
-### 🔹 [DomiCare](https://github.com/hnagnurtme/DomiCare_Website)
+### 🔹 [DomiCare - Home Cleaning Platform](https://github.com/hnagnurtme/DomiCare_Website)
 
 <p align="center">
   <img src="https://res.cloudinary.com/dvxyv0l5f/image/upload/v1752313673/Logo_domicare_3_sfhuro.png" alt="DomiCare" width="320" />
 </p>
 
-> 🧼 A home cleaning service booking platform with real-time communication, OAuth2 login, and role-based access control. Deployed on Render.
+**📌 Nghiệp vụ chính:**
+- 🔍 **Tìm kiếm dịch vụ** theo đánh giá, vị trí, giá
+- 📅 **Đặt lịch dọn dẹp** với xác thực OTP
+- 🔐 **Đăng nhập OAuth2**, quản lý tài khoản người dùng
+- ⏱️ **Thông báo real-time** đơn hàng mới qua WebSocket
+- 🧾 **Thanh toán online**, đánh giá và phản hồi dịch vụ
+- 📊 **Quản trị đa vai trò**: Khách hàng, Sales, Kỹ thuật, Admin
+- 📥 **Gửi email tự động** khi thay đổi trạng thái
 
-**Tech Stack:**  
-`Spring Boot` · `PostgreSQL` · `OAuth2` · `JWT` · `WebSocket` · `Swagger` · `Docker`
+**🛠 Tech Stack:**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,java,postgres,docker,jwt,oauth,swagger" />
+</p>
 
 <p align="center">
   <a href="https://github.com/hnagnurtme/DomiCare_Website" target="_blank">
@@ -60,16 +70,24 @@
 
 ---
 
-### 🔹 [Shopify Microservice](https://github.com/hnagnurtme/ecomerce-microservice)
+### 🔹 [Shopify Microservice - E-commerce Platform](https://github.com/hnagnurtme/ecomerce-microservice)
 
 <p align="center">
   <img src="https://res.cloudinary.com/dvxyv0l5f/image/upload/v1752313769/anhanhaa_jzjrxy.jpg" alt="Shopify Microservice" width="320" />
 </p>
 
-> 🛒 A microservice-based e-commerce platform with event-driven architecture, secure auth, and modular design.
+**📌 Nghiệp vụ chính:**
+- 🛍️ **Quản lý người dùng & đơn hàng** theo kiến trúc microservice
+- 🔐 **Xác thực bằng JWT**, phân quyền API
+- 🔁 **Giao tiếp liên dịch vụ** qua Kafka (event-driven)
+- ⚙️ **CI/CD & Docker** cho toàn bộ hệ thống
+- 📜 **Swagger UI** cho tài liệu hóa REST API
 
-**Tech Stack:**  
-`Node.js` · `TypeScript` · `Express` · `MongoDB` · `Kafka` · `JWT` · `Swagger` · `Docker`
+**🛠 Tech Stack:**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,express,mongodb,docker,kafka,jwt,swagger" />
+</p>
 
 <p align="center">
   <a href="https://github.com/hnagnurtme/ecomerce-microservice" target="_blank">
