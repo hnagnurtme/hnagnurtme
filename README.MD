@@ -1,8 +1,10 @@
 <!-- 🚀 Optimized GitHub Profile - Nguyen Trung Anh -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=✨+Nguyen+Van+Trung+Anh+✨" alt="Nguyen Van Trung Anh" />
-</h1>
+<h1 align="center">✨ Nguyen Van Trung Anh ✨</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Developer+%7C+Java,+SpringBoot,+NodeJS;CI/CD,+Microservices+Enthusiast;Second-year+student+at+DUT" alt="Typing Intro" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/🚀_Backend_Developer-000?style=for-the-badge&logo=starship&logoColor=36BCF7&labelColor=0d1117" alt="Backend Developer" />
