@@ -37,13 +37,28 @@
 
 ---
 
-## 🛠️ Projects Showcase
+## 🛠️ Project Showcase
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🔹 [DomiCare](https://github.com/hnagnurtme/DomiCare_Website.git) | A platform for booking home cleaning services. Includes OAuth2 login, role-based access, WebSocket notifications, and Docker deployment. | `Spring Boot`, `PostgreSQL`, `OAuth2`, `JWT`, `WebSocket`, `Swagger`, `Docker` |
-| 🔹 [Shopify Microservice](https://github.com/hnagnurtme/ecomerce-microservice) | A microservice-based e-commerce platform with Kafka-based event communication and secure user authentication. | `TypeScript`, `Express`, `MongoDB`, `Kafka`, `JWT`, `Swagger`, `Docker` |
+<p align="center">
 
+  <!-- Project 1 -->
+  <a href="https://github.com/hnagnurtme/DomiCare_Website" target="_blank">
+    <img src="https://raw.githubusercontent.com/hnagnurtme/DomiCare_Website/main/preview.png" alt="DomiCare" width="300" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 12px;" />
+  </a>
+
+  <!-- Project 2 -->
+  <a href="https://github.com/hnagnurtme/ecomerce-microservice" target="_blank">
+    <img src="https://raw.githubusercontent.com/hnagnurtme/ecomerce-microservice/main/preview.png" alt="Shopify Microservice" width="300" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 12px;" />
+  </a>
+
+</p>
+
+<p align="center">
+
+  <b>DomiCare:</b> Home cleaning service booking system with JWT, OAuth2, WebSocket, Docker <br/>
+  <b>Shopify Microservice:</b> Scalable e-commerce platform using Node.js, Kafka, MongoDB, Docker
+
+</p>
 ---
 
 ## 📈 GitHub Stats
