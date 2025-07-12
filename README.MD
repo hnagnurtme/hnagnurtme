@@ -18,7 +18,21 @@
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,javascript,typescript,docker,graphql,postgres,mysql,mongodb,dotnet,html,css,qt,vscode,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,ts,js,docker,kubernetes,postgres,mysql,mongodb,graphql,dotnet" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,qt,vscode,git,github,postman" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="graphql" width="50" height="50" />
+</p>
+
+<p align="center">
+  <img src="https://lottiefiles.com/storage/datafiles/1oJxgKq3bbV8GL3/data.json" width="0" height="0" hidden />
 </p>
 
 ---
