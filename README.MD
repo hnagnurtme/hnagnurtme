@@ -39,19 +39,46 @@
 
 ## 🛠️ Project Showcase
 
+---
+
+### 🔹 [DomiCare](https://github.com/hnagnurtme/DomiCare_Website)
+
 <p align="center">
-
-  <!-- Project 1 -->
-  <a href="https://github.com/hnagnurtme/DomiCare_Website" target="_blank">
-    <img src="https://res.cloudinary.com/dvxyv0l5f/image/upload/v1752313673/Logo_domicare_3_sfhuro.png" alt="DomiCare" width="300" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 12px;" />
-  </a>
-
-  <!-- Project 2 -->
-  <a href="https://github.com/hnagnurtme/ecomerce-microservice" target="_blank">
-    <img src="https://res.cloudinary.com/dvxyv0l5f/image/upload/v1752313769/anhanhaa_jzjrxy.jpg" alt="Shopify Microservice" width="300" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 12px;" />
-  </a>
-
+  <img src="https://res.cloudinary.com/dvxyv0l5f/image/upload/v1752313673/Logo_domicare_3_sfhuro.png" alt="DomiCare" width="320" />
 </p>
+
+> 🧼 A home cleaning service booking platform with real-time communication, OAuth2 login, and role-based access control. Deployed on Render.
+
+**Tech Stack:**  
+`Spring Boot` · `PostgreSQL` · `OAuth2` · `JWT` · `WebSocket` · `Swagger` · `Docker`
+
+<p align="center">
+  <a href="https://github.com/hnagnurtme/DomiCare_Website" target="_blank">
+    <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🔹 [Shopify Microservice](https://github.com/hnagnurtme/ecomerce-microservice)
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dvxyv0l5f/image/upload/v1752313769/anhanhaa_jzjrxy.jpg" alt="Shopify Microservice" width="320" />
+</p>
+
+> 🛒 A microservice-based e-commerce platform with event-driven architecture, secure auth, and modular design.
+
+**Tech Stack:**  
+`Node.js` · `TypeScript` · `Express` · `MongoDB` · `Kafka` · `JWT` · `Swagger` · `Docker`
+
+<p align="center">
+  <a href="https://github.com/hnagnurtme/ecomerce-microservice" target="_blank">
+    <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
 
 <p align="center">
 
