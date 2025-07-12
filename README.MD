@@ -110,15 +110,6 @@
 </td>
 </tr>
 </table>
-
-
-
-<p align="center">
-
-  <b>DomiCare:</b> Home cleaning service booking system with JWT, OAuth2, WebSocket, Docker <br/>
-  <b>Shopify Microservice:</b> Scalable e-commerce platform using Node.js, Kafka, MongoDB, Docker
-
-</p>
 ---
 
 ## 📈 GitHub Stats
