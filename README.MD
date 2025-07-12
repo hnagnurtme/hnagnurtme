@@ -1,15 +1,15 @@
-<!-- Optimized Profile README - Nguyen Trung Anh -->
+<!-- 🚀 Optimized GitHub Profile - Nguyen Trung Anh -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=✨+NGUYEN+VAN+TRUNG+ANH+✨" alt="Nguyen Van Trung Anh" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=✨+Nguyen+Van+Trung+Anh+✨" alt="Nguyen Van Trung Anh" />
 </h1>
 
-<h3 align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/🚀_Backend_Developer-000?style=for-the-badge&logo=starship&logoColor=36BCF7&labelColor=0d1117" alt="Backend Developer" />
-</h3>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=Second-year+student+at+DUT;Passionate+about+Backend+Development;Loves+SpringBoot+%2F+NodeJS;Currently+exploring+Docker%2C+CI%2FCD" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Java,+SpringBoot,+NodeJS;Building+Microservices+%26+Exploring+CI/CD;Second-year+student+at+DUT" alt="Typing Intro" />
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
   <img src="https://github.com/hnagnurtme/hnagnurtme/assets/123456789/decoration-line" alt="divider" width="100%" height="8" style="background: linear-gradient(90deg, #0d1117, #36BCF7, #0d1117); border-radius: 4px;" />
 </div>
 
-## � Tech Stack
+## 🧰 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,ts,js,docker,kubernetes,postgres,mysql,mongodb,graphql,dotnet" />
@@ -33,8 +33,9 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnagnurtme&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7" alt="Top Languages" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=hnagnurtme&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hnagnurtme&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hnagnurtme&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <div align="center">
@@ -47,24 +48,24 @@
 <div style="background: linear-gradient(135deg, #0d1117 0%, #1a2238 100%); border-radius: 12px; padding: 20px; margin: 25px 0; border: 1px solid #36BCF7; box-shadow: 0 8px 16px rgba(54, 188, 247, 0.2);">
   <table>
     <tr>
-      <td width="45%" align="center" style="vertical-align: middle;">
+      <td width="45%" align="center">
         <a href="https://github.com/hnagnurtme/DomiCare_Website" target="_blank">
-          <img src="https://res.cloudinary.com/dvxyv0l5f/image/upload/v1752313673/Logo_domicare_3_sfhuro.png" alt="DomiCare" width="85%" style="border-radius: 12px; border: 2px solid #36BCF7; box-shadow: 0 4px 8px rgba(54, 188, 247, 0.4); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'" />
+          <img src="https://res.cloudinary.com/dvxyv0l5f/image/upload/v1752313673/Logo_domicare_3_sfhuro.png" alt="DomiCare" width="85%" style="border-radius: 12px; border: 2px solid #36BCF7; box-shadow: 0 4px 8px rgba(54, 188, 247, 0.4);" />
         </a>
       </td>
       <td valign="top" style="padding-left: 25px;">
 
 ### 🔹 [DomiCare - Home Cleaning Platform](https://github.com/hnagnurtme/DomiCare_Website)
 
-> 🧼 Intelligent home cleaning service booking platform with flexible scheduling, OAuth2 authentication, automated email notifications, and real-time WebSocket alerts. Supports multiple roles: customer, sales, technician, administrator.
+🧼 Smart home cleaning service booking platform with flexible scheduling, OAuth2 authentication, automated email notifications, and real-time WebSocket alerts.
 
-**✨ Features:**
-- 🕒 Service search & booking
+**✨ Key Features:**
+- 🕒 Search & book services
 - 👥 User & order management
 - 🔔 Real-time notifications
-- 🔐 OAuth2 authentication
+- 🔐 OAuth2 + JWT authentication
 - ✉️ Email automation
-- ⭐ Service rating system
+- ⭐ Rating system
 
 **⚙️ Tech Stack:**
 <p>
@@ -91,23 +92,23 @@
 <div style="background: linear-gradient(135deg, #0d1117 0%, #1a2238 100%); border-radius: 12px; padding: 20px; margin: 25px 0; border: 1px solid #36BCF7; box-shadow: 0 8px 16px rgba(54, 188, 247, 0.2);">
   <table>
     <tr>
-      <td width="45%" align="center" style="vertical-align: middle;">
+      <td width="45%" align="center">
         <a href="https://github.com/hnagnurtme/ecomerce-microservice" target="_blank">
-          <img src="https://res.cloudinary.com/dvxyv0l5f/image/upload/v1752313769/anhanhaa_jzjrxy.jpg" alt="Shopify Microservice" width="85%" style="border-radius: 12px; border: 2px solid #36BCF7; box-shadow: 0 4px 8px rgba(54, 188, 247, 0.4); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'" />
+          <img src="https://res.cloudinary.com/dvxyv0l5f/image/upload/v1752313769/anhanhaa_jzjrxy.jpg" alt="Shopify Microservice" width="85%" style="border-radius: 12px; border: 2px solid #36BCF7; box-shadow: 0 4px 8px rgba(54, 188, 247, 0.4);" />
         </a>
       </td>
       <td valign="top" style="padding-left: 25px;">
 
 ### 🔹 [Shopify Microservice - E-commerce Platform](https://github.com/hnagnurtme/ecomerce-microservice)
 
-> 🛒 E-commerce platform using microservice architecture with Kafka event streaming. Features JWT authentication and Swagger UI API documentation.
+🛒 E-commerce platform based on microservice architecture, featuring Kafka event streaming, JWT authentication, and Swagger API documentation.
 
-**✨ Features:**
-- 🔑 JWT authentication
+**✨ Key Features:**
+- 🔑 JWT-based authentication
 - 👤 User management
 - 📦 Order processing
 - 📡 Kafka inter-service communication
-- 🚀 Docker CI/CD pipeline
+- 🚀 CI/CD with Docker
 
 **⚙️ Tech Stack:**
 <p>
@@ -134,14 +135,17 @@
 
 <p align="center">
   <a href="mailto:trunganh0106@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/trunganh0106">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="https://github.com/hnagnurtme">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  &nbsp;
   <a href="https://leetcode.com/trunganh0106/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
