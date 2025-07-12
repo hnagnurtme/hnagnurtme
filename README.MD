@@ -43,12 +43,12 @@
 
   <!-- Project 1 -->
   <a href="https://github.com/hnagnurtme/DomiCare_Website" target="_blank">
-    <img src="https://raw.githubusercontent.com/hnagnurtme/DomiCare_Website/main/preview.png" alt="DomiCare" width="300" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 12px;" />
+    <img src="https://res.cloudinary.com/dvxyv0l5f/image/upload/v1752313673/Logo_domicare_3_sfhuro.png" alt="DomiCare" width="300" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 12px;" />
   </a>
 
   <!-- Project 2 -->
   <a href="https://github.com/hnagnurtme/ecomerce-microservice" target="_blank">
-    <img src="https://raw.githubusercontent.com/hnagnurtme/ecomerce-microservice/main/preview.png" alt="Shopify Microservice" width="300" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 12px;" />
+    <img src="https://res.cloudinary.com/dvxyv0l5f/image/upload/v1752313769/anhanhaa_jzjrxy.jpg" alt="Shopify Microservice" width="300" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 12px;" />
   </a>
 
 </p>
