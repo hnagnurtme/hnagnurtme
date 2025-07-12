@@ -19,7 +19,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/hnagnurtme/hnagnurtme/assets/123456789/decoration-line" alt="divider" width="100%" height="8" style="background: linear-gradient(90deg, #0d1117, #36BCF7, #0d1117); border-radius: 4px;" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=36BCF7&height=3&section=header" width="100%" />
 </div>
 
 ## 🧰 Tech Stack
