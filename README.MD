@@ -22,8 +22,6 @@ Focused on designing robust APIs, optimizing server performance, and integrating
 
 **TOEIC 530** — continuously improving my English communication and technical vocabulary to collaborate better in global environments.  
 
-[![Profile Views](https://komarev.com/ghpvc/?username=hnagnurtme&style=flat-square&color=36BCF7&label=PROFILE+VIEWS)](https://github.com/hnagnurtme)
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=36BCF7&height=3&section=header" width="100%" />
 
 <p align="center">
