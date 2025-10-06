@@ -1,7 +1,5 @@
 <h1 align="center"> NGUYEN TRUNG ANH </h1>
 
----
-
 ## 👨‍💻 About Me
 <p align="center">
 Hi, I'm <b>Nguyen Trung Anh</b> — a developer passionate about building scalable web apps and exploring modern technologies.  
@@ -13,29 +11,20 @@ I enjoy solving problems on <a href="https://leetcode.com/u/hnagnurt">LeetCode</
 🌱 Always curious about system design, DevOps, and how to make applications run faster & smoother.  
 </p>
 
----
-
 ## 🎓 Education & Experience
 
 **Backend Developer** at **GDGOC-DUT**  
 Focused on designing robust APIs, optimizing server performance, and integrating scalable backend architectures.  
 
----
 
 - **Backend Developer** with **ExpressJS** at [**LOCALISM**](https://youtu.be/KDTVbxLC2QA?si=rXXugAmYX5wE5RAj) — participated in the **APAC Solution Challenge 2025**.  
 - **Fullstack Developer (React + Express)** at [**TASKMIND**](https://www.youtube.com/watch?v=hpEz1RInm8g) — Top 10% in **NAVER AI Vietnam Hackathon** *(ongoing)*.  
 
----
-
 **TOEIC 530** — continuously improving my English communication and technical vocabulary to collaborate better in global environments.  
-
----
 
 [![Profile Views](https://komarev.com/ghpvc/?username=hnagnurtme&style=flat-square&color=36BCF7&label=PROFILE+VIEWS)](https://github.com/hnagnurtme)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=36BCF7&height=3&section=header" width="100%" />
-
----
 
 <p align="center">
   <a href="https://github.com/hnagnurtme">
