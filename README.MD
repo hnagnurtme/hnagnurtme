@@ -33,8 +33,6 @@ Focused on designing robust APIs, optimizing server performance, and integrating
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hnagnurtme&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7" alt="GitHub Stats" />
-  <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hnagnurtme&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
