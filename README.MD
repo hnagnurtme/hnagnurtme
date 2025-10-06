@@ -16,19 +16,24 @@ I enjoy solving problems on <a href="https://leetcode.com/u/hnagnurt">LeetCode</
 ---
 
 ## 🎓 Education & Experience
-<p align="center">
-  <b>Backend Developer</b> at <b>GDGOC-DUT</b>  
-  <br/>
-  Focused on designing robust APIs, optimizing server performance, and integrating scalable backend architectures.  
-</p>
 
-<p align="center">
-  • Backend Developer with <b>ExpressJS</b> at 
-  <a href="https://youtu.be/KDTVbxLC2QA?si=rXXugAmYX5wE5RAj" target="_blank"><b>LOCALISM</b></a> — participated in the <b>APAC Solution Challenge 2025</b>.  
-  <br/>
-  • Fullstack Developer (React + Express) at 
-  <a href="https://www.youtube.com/watch?v=hpEz1RInm8g" target="_blank"><b>TASKMIND</b></a> — Top 10% in <b>NAVER AI Vietnam Hackathon</b> (ongoing).  
-</p>
+**Backend Developer** at **GDGOC-DUT**  
+Focused on designing robust APIs, optimizing server performance, and integrating scalable backend architectures.  
+
+---
+
+- **Backend Developer** with **ExpressJS** at [**LOCALISM**](https://youtu.be/KDTVbxLC2QA?si=rXXugAmYX5wE5RAj) — participated in the **APAC Solution Challenge 2025**.  
+- **Fullstack Developer (React + Express)** at [**TASKMIND**](https://www.youtube.com/watch?v=hpEz1RInm8g) — Top 10% in **NAVER AI Vietnam Hackathon** *(ongoing)*.  
+
+---
+
+**TOEIC 530** — continuously improving my English communication and technical vocabulary to collaborate better in global environments.  
+
+---
+
+[![Profile Views](https://komarev.com/ghpvc/?username=hnagnurtme&style=flat-square&color=36BCF7&label=PROFILE+VIEWS)](https://github.com/hnagnurtme)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=36BCF7&height=3&section=header" width="100%" />
 
 ---
 
