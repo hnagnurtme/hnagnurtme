@@ -18,7 +18,7 @@ Focused on designing robust APIs, optimizing server performance, and integrating
 
 
 - **Backend Developer** with **ExpressJS** at [**LOCALISM**](https://youtu.be/KDTVbxLC2QA?si=rXXugAmYX5wE5RAj) — participated in the **APAC Solution Challenge 2025**.  
-- **Fullstack Developer (React + Express)** at [**TASKMIND**](https://github.com/hnagnurtme/TASKMIND) — Top 10% in **NAVER AI Vietnam Hackathon 2025** *(ongoing)*.  
+
 
 **TOEIC 530** — continuously improving my English communication and technical vocabulary to collaborate better in global environments.  
 
