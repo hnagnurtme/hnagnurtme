@@ -10,18 +10,6 @@ I enjoy solving problems on <a href="https://leetcode.com/u/hnagnurt">LeetCode</
 <br/>
 🌱 Always curious about system design, DevOps, and how to make applications run faster & smoother.  
 </p>
-
-## 🎓 Education & Experience
-
-**Backend Developer** at **GDGOC-DUT**  
-Focused on designing robust APIs, optimizing server performance, and integrating scalable backend architectures.  
-
-
-- **Backend Developer** with **ExpressJS** at [**LOCALISM**](https://youtu.be/KDTVbxLC2QA?si=rXXugAmYX5wE5RAj) — participated in the **APAC Solution Challenge 2025**.  
-
-
-**TOEIC 530** — continuously improving my English communication and technical vocabulary to collaborate better in global environments.  
-
 ## 🧰 Tech Stack
 
 <p align="center">
