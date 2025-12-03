@@ -1,4 +1,4 @@
-<h1 align="center"> NGUYEN TRUNG ANH </h1>
+<h1 align="center"> NGUYEN VAN TRUNG ANH </h1>
 
 ## 👨‍💻 About Me
 <p align="center">
