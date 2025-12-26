@@ -102,35 +102,4 @@
 </div>
 </div>
 </div>
-<!-- Pixel Cat Animation -->
-<div style="position: relative; height: 120px; margin-bottom: 20px;">
-  <div class="pixel-cat-container">
-    <div class="pixel-cat-inner">
-      <svg viewBox="0 0 32 24" style="width: 100%; height: 100%; image-rendering: pixelated;">
-        <ellipse cx="14" cy="22" rx="8" ry="2" fill="rgba(0,0,0,0.3)" />
-        <g style="transform-origin: left center; animation: tailWag 0.5s infinite;">
-          <rect x="22" y="10" width="2" height="2" fill="#2dd916" />
-          <rect x="24" y="8" width="2" height="2" fill="#2dd916" />
-          <rect x="26" y="6" width="2" height="3" fill="#2dd916" />
-          <rect x="28" y="4" width="2" height="3" fill="#3cf91a" />
-        </g>
-        <rect x="6" y="10" width="14" height="7" fill="#3cf91a" />
-        <rect x="7" y="9" width="12" height="2" fill="#2dd916" />
-        <rect x="8" y="11" width="10" height="5" fill="#4aff2e" />
-        <rect x="2" y="4" width="10" height="8" fill="#3cf91a" />
-        <rect x="3" y="3" width="8" height="2" fill="#2dd916" />
-        <rect x="2" y="1" width="3" height="3" fill="#3cf91a" />
-        <rect x="9" y="1" width="3" height="3" fill="#3cf91a" />
-        <g style="animation: blink 3s infinite;">
-          <rect x="4" y="7" width="2" height="2" fill="#000" />
-          <rect x="4" y="7" width="1" height="1" fill="#fff" />
-          <rect x="8" y="7" width="2" height="2" fill="#000" />
-          <rect x="8" y="7" width="1" height="1" fill="#fff" />
-        </g>
-        <rect x="6" y="9" width="2" height="1" fill="#ff6b9d" />
-        <rect x="5" y="11" width="6" height="1" fill="#ff6b6b" />
-        <rect x="7" y="11" width="2" height="2" fill="#ffd700" />
-      </svg>
-    </div>
-  </div>
 </div>
