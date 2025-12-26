@@ -25,22 +25,5 @@ I enjoy solving problems on <a href="https://leetcode.com/u/hnagnurt">LeetCode</
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hnagnurtme&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
-## 🌐 Connect with Me
 
-<p align="center">
-  <a href="mailto:anhnon0106@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/trunganh0106/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/hnagnurtme">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/hnagnurt">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-</p>
+
