@@ -48,14 +48,14 @@ Hi, I'm Anhnon. I am currently crafting robust backend solutions at **[@Riverflo
       <br/>
       <img src="https://img.shields.io/badge/DUT-PBL%205-0e9aa7?style=for-the-badge&labelColor=0d1f2d&logoColor=white" height="22" />
       <br/>
-      <sub>A next-generation, real-time monitoring ecosystem that integrates IoT (ESP32-CAM) and AI (YOLOv8) via the MQTT protocol to effectively mitigate road accident risks caused by human error.</sub>
+      <sub>A next-generation, real-time monitoring ecosystem that integrates IoT (ESP32-CAM) and AI (YOLOv26) via the MQTT protocol to effectively mitigate road accident risks caused by human error.</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/hnagnurtme/NavNexus">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=hnagnurtme&repo=NavNexus&hide_border=false" width="100%" />
       </a>
       <br/>
-      <img src="https://img.shields.io/badge/Naver-AI%20Hackathon%202025-0e9aa7?style=for-the-badge&labelColor=0d1f2d&logoColor=white" height="22" />
+      <img src="https://img.shields.io/badge/Naver-Viet Nam AI%20Hackathon%202025-0e9aa7?style=for-the-badge&labelColor=0d1f2d&logoColor=white" height="22" />
       <br/>
       <sub>NavNexus is an AI-driven platform that transforms scattered, multilingual research documents into a living, interactive Knowledge Graph — turning static mindmaps into an immersive Knowledge Journey.</sub>
     </td>
