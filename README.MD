@@ -1,9 +1,9 @@
 <table width="100%">
   <tr>
-    <td width="30%" align="center" valign="middle">
+    <td width="240" align="center" valign="middle">
       <img src="coderman.gif" width="220" alt="Coderman" />
     </td>
-    <td width="70%" valign="middle">
+    <td width="1000" valign="middle">
       <h3>Trung Anh</h3>
       <p>Software Engineer · Cloud Infrastructure · AI Integration · AIoT</p>
     </td>
