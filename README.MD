@@ -1,9 +1,14 @@
-<img src="coderman.gif" align="left" width="220" alt="Coderman" style="margin-right: 20px;" />
-
-<font size="6"><b>Trung Anh</b></font>
-**Software Engineer · Distributed Systems · Cloud Infrastructure · AI Integration · AIoT**
-
-<br clear="left"/>
+<table>
+  <tr>
+    <td width="30%" align="center" valign="middle">
+      <img src="coderman.gif" width="220" alt="Coderman" />
+    </td>
+    <td width="70%" valign="middle">
+      <font size="5">Trung Anh</font><br/>
+      <font size="3" color="#666">Software Engineer · Cloud Infrastructure · AI Integration · AIoT</font>
+    </td>
+  </tr>
+</table>
 
 | Backend | AI & Data | DevOps & Infra |
 | :--- | :--- | :--- |
