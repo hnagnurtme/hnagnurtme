@@ -1,6 +1,6 @@
 <img src="coderman.gif" align="left" width="220" alt="Coderman" style="margin-right: 20px;" />
 
-# Trung Anh
+<font size="6"><b>Trung Anh</b></font>
 **Software Engineer · Distributed Systems · Cloud Infrastructure · AI Integration · AIoT**
 
 <br clear="left"/>
